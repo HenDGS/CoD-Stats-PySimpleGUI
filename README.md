@@ -1,6 +1,6 @@
-# 🔴 Cod-PySimpleGUI
-Projeto usando um wrapper em python da API de Call of Duty para mostrar os stats de jogadore usando PySimpleGUI.
+# Cod-PySimpleGUI
+Project using Call of Duty's API wrapper to compare stats of players in a GUI made with PySimpleGUI.
 
-Cancelado pois o wrapper não tem mais atualização, e regras da api do Call of Duty se tornaram mais restritivas.
+Cancelled because the wrapper stoped being updated as Call of Duty's api rules have become more restrictive.
 
-◘ Necessita de informações de login para funcionar
+◘ Needs login info to work
